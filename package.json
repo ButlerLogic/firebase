@@ -1,0 +1,32 @@
+{
+  "name": "@butlerlogic/firebase",
+  "version": "1.0.0",
+  "description": "A library for simplifying the workflow when developing on the Google Firebase platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "fb": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ButlerLogic/firebase.git"
+  },
+  "keywords": [
+    "firebase",
+    "dev",
+    "utility"
+  ],
+  "author": "Corey Butler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ButlerLogic/firebase/issues"
+  },
+  "homepage": "https://github.com/ButlerLogic/firebase#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "klaw-sync": "^6.0.0",
+    "traverse": "^0.6.6"
+  }
+}
