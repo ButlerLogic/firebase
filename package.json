@@ -1,6 +1,6 @@
 {
   "name": "@butlerlogic/firebase",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.1",
   "description": "A library for simplifying the workflow when developing on the Google Firebase platform.",
   "main": "index.js",
   "scripts": {
