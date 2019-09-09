@@ -17,7 +17,7 @@ if (args.length === 0) {
 let CMD = args.shift()
 
 // Process commands
-switch (cmd.trim().toLowerCase()) {
+switch (CMD.trim().toLowerCase()) {
   case 'configure':
     fn.configure(DEBUG)
     return
